@@ -5,12 +5,14 @@
 ### Kotlin ###
 # Compiled class file
 *.class
+.idea
 
 # Log file
 *.log
 
 # BlueJ files
 *.ctxt
+out
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
